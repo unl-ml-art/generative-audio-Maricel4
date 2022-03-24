@@ -1,13 +1,14 @@
 # Project 2 Generative Audio
 
 Your Name, yourcontact@unl.edu
+Maricel Reinhard, maricel.reinhard@huskers.unl.edu
 
-(Your teammate's contact info, if appropriate)
 
 ## Abstract
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
-
+Hello! 
+I am planning on generating audio using Open AI Jukebox. I want to generate audio from BROCKHAMPTON mp3s and just from the data they already have on that music group to create a new BROCKHAMPTON SONG. I am debating whether or not to write my own lyrics or to generate new lyrics with GTP2. I think I will experiment with both and then use what I like best. I think it will be cool if time to create a short visualizer/album cover for the song as well!!!
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
